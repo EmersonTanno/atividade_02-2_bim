@@ -1,0 +1,53 @@
+{
+    "teams":[
+    {
+        "id": "1",
+        "user_id": "1",
+        "team_name": "Violet",
+        "pokemon":[
+            {
+                "move1": "Bitter Blade",
+                "move2": "Shadow Sneak",
+                "move3": "Close Combat",
+                "move4": "Swords Dance",
+                "name": "Ceruledge",
+                "lvl": 50,
+                "nature": "Adamant",
+                "ability": "Flash Fire",
+                "hp": 75,
+                "atk": 125,
+                "def": 80,
+                "spa": 60,
+                "spd": 100,
+                "spe": 85,
+                "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/937.png"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "user_id": "1",
+        "team_name": "Scarlet",
+        "pokemon":[
+            {
+                "move1": "Bitter Blade",
+                "move2": "Shadow Sneak",
+                "move3": "Close Combat",
+                "move4": "Swords Dance",
+                "name": "Armarouge",
+                "lvl": 50,
+                "nature": "Adamant",
+                "ability": "Flash Fire",
+                "hp": 75,
+                "atk": 125,
+                "def": 80,
+                "spa": 60,
+                "spd": 100,
+                "spe": 85,
+                "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/937.png"
+            }
+        ]
+    }
+    ]
+
+}
